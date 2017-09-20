@@ -1,0 +1,61 @@
+body {
+  text-align: center;
+  margin: 0 auto;
+}
+
+h1 {
+  margin: 10px 0 0 0;
+}
+#tagArea{
+	width:300px;
+	height: 20px;
+	overflow:scroll;
+}
+
+#UpContainer{
+	float: left;
+	width: 1300px;
+	height: 500px;
+	border: 1px solid red;
+}
+#mainImage{
+	float:left;
+  margin: 0;
+  width: 760px;
+  height: 460px;
+  border: 1px solid red;
+}
+#videos-container{
+	margin: 10px;
+	float:left;
+	width:300px;
+	height:700px;
+	 border: 1px solid red;
+}
+
+#chat{
+	overflow:hidden;
+	float:left;
+	 border: 1px solid red;
+	margin: 10px;
+	width: 220px;
+	height: 450px;
+}
+
+canvas {
+  margin: 10px 0;
+}
+
+.filters button {
+  margin: 10px 0;
+}
+
+input[type="range"] {
+  margin: 0 0 10px 0;
+}
+
+.p {
+  padding-top: 50px;
+  clear: both;
+}
+	
